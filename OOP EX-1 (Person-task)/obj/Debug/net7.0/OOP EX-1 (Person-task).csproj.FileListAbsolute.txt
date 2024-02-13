@@ -1,0 +1,15 @@
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\OOP EX-1 (Person-task).csproj.AssemblyReference.cache
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\OOP EX-1 (Person-task).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\OOP EX-1 (Person-task).AssemblyInfoInputs.cache
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\OOP EX-1 (Person-task).AssemblyInfo.cs
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\OOP EX-1 (Person-task).csproj.CoreCompileInputs.cache
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\bin\Debug\net7.0\OOP EX-1 (Person-task).exe
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\bin\Debug\net7.0\OOP EX-1 (Person-task).deps.json
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\bin\Debug\net7.0\OOP EX-1 (Person-task).runtimeconfig.json
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\bin\Debug\net7.0\OOP EX-1 (Person-task).dll
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\bin\Debug\net7.0\OOP EX-1 (Person-task).pdb
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\OOP EX-1 (Person-task).dll
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\refint\OOP EX-1 (Person-task).dll
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\OOP EX-1 (Person-task).pdb
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\OOP EX-1 (Person-task).genruntimeconfig.cache
+C:\Users\mohamed\Desktop\OOP EX-1 (Person-task)\OOP EX-1 (Person-task)\obj\Debug\net7.0\ref\OOP EX-1 (Person-task).dll
